@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in cars and technology
-- 🌱 I’m currently learning new things
-- 💞️ I’m looking to collaborate on fun stuff
 - 📫 How to reach me: carrier pigeon
 
 <!---
